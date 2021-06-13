@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arnaud Chevallier
-- 👀 I’m interested in a web development career
-- 🌱 I’m currently learning and improving Javascript, NodeJs, ReactJs, Express, Redux, SQL, Heroku, Html, CSS and Github obviously 
-- 💞️ I’m looking to collaborate on side projects or a job.
+- 👀 I’m interested in improving my skills and have a web development career
+- 🌱 I’m currently learning and improving Javascript, NodeJs, ReactJs, Express, Redux, SQLite, postgreSQL, Heroku, Html, CSS and obviously... Github!
+- 💞️ I’m looking to collaborate on side projects or im open to a job as web developer.
 - 📫 How to reach me : chevallier.a06@gmail.com
 
 <!---
