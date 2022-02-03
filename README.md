@@ -1,9 +1,9 @@
-- 👋 Hi I’m Arnaud Chevallier, a brand new Javascript/React developer.
-- LinkedIn: https://www.linkedin.com/in/arnaud-chevallier-55279b161/
-- 👀 I’m interested in improving my skills and have a web development career
-- 🌱 As i finished the full-stack course on Codecademy.com, I’m currently improving Javascript, NodeJs, ReactJs, Express, Redux, MongoDB, Heroku, Html, CSS and obviously... Github!
-- 💞️ I’m looking to collaborate on side projects or im open to a job as web developer internship or maybe junior depending on the tasks.
-- 📫 How to reach me : chevallier.a06@gmail.com
+👋 Hi, I’m Arnaud Chevallier, a brand new Javascript/React developer.
+LinkedIn: https://www.linkedin.com/in/arnaud-chevallier-55279b161/
+👀 I’m looking to share and improve my skills forward a web development career
+🌱 Following the full-stack course on Codecademy, I’m currently improving my skills in Javascript, NodeJs, ReactJs, Express, Redux, MongoDB, Heroku, Html, CSS and obviously... Github!
+💞️ I'm open to multiple experiences as a Javascript/React developer: Internship, Junior position and collaboration on side projects.
+📫 How to reach me: chevallier.a06@gmail.com
 
 <!---
 Unvodka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
