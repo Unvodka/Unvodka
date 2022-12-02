@@ -4,9 +4,9 @@ LinkedIn: https://www.linkedin.com/in/arnaud-chevallier-55279b161/
 
 👀 I’m looking to share and improve my skills forward a web development career
 
-🌱 Following the full-stack course on Codecademy, I’m currently improving my skills in Javascript, NodeJs, ReactJs, Express, Redux, MongoDB, Heroku, Html, CSS and obviously... Github!
+🌱 Inspired by the full-stack course on Codecademy wich i did, I’m currently improving my skills in Javascript, NodeJs, ReactJs, Express, Redux, MongoDB, Heroku, Html, CSS and obviously... Github, using the internet to get the maximum documentation as possible!
 
-💞️ I'm open to multiple experiences as a Javascript/React developer: Internship, Junior position and collaboration on side projects.
+💞️ I'm open to multiple my experiences as a Javascript/React developer: Internship or Junior position.
 
 📫 How to reach me: chevallier.a06@gmail.com
 
